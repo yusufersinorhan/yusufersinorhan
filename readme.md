@@ -1,5 +1,3 @@
-<iframe src="https://giphy.com/embed/3oFzmrqRPhYnFg9oGs" width="380" height="270" align="right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>        
-
 ### Hi there, I'm Yusuf. :smile:
 
 ## Learning blockchain technolojies, Python and Web3.0
